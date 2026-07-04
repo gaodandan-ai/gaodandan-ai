@@ -2,12 +2,12 @@
 
 # Dandan Gao
 
-### Computational Biology · Microbial Systems Biology · Reproducible Bioinformatics
+### Computational Biology · Microbial Systems Biology · Bioinformatics Learning & Research
 
 [![GitHub](https://img.shields.io/badge/GitHub-gaodandan--ai-181717?style=flat\&logo=github)](https://github.com/gaodandan-ai)
-[![Research](https://img.shields.io/badge/Research-Microbial%20Systems%20Biology-2E7D32?style=flat)](#research-focus)
-[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Reproducible%20Pipelines-1565C0?style=flat)](#featured-projects)
-[![Systems Biology](https://img.shields.io/badge/Systems%20Biology-Regulatory--Metabolic%20Networks-6A1B9A?style=flat)](#featured-projects)
+[![Research](https://img.shields.io/badge/Research-Microbial%20Systems%20Biology-2E7D32?style=flat)](#research-interests)
+[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Reproducible%20Analysis-1565C0?style=flat)](#technical-interests)
+[![Systems Biology](https://img.shields.io/badge/Systems%20Biology-Multi--omics%20Integration-6A1B9A?style=flat)](#current-focus)
 
 </div>
 
@@ -15,26 +15,26 @@
 
 ## About Me
 
-I am a graduate student working at the intersection of **computational biology**, **microbial systems biology**, and **reproducible bioinformatics workflow development**.
+Hi, I am **Dandan Gao**, a graduate student interested in **computational biology**, **microbial systems biology**, and **bioinformatics data analysis**.
 
-My research focuses on using multi-omics data, genome-scale models, regulatory networks, and interactive computational tools to understand microbial stress responses and strain adaptation, especially in *Corynebacterium glutamicum*.
+My current research focuses on understanding how microorganisms respond and adapt to environmental stress,  through multi-omics data, regulatory networks, metabolic pathways, and computational modeling.
 
-I am particularly interested in turning complex biological datasets into **interpretable, reusable, and publication-ready analysis workflows**, including whole-genome resequencing, CRISPRi screening, high-throughput growth analysis, transcriptional regulation, metabolic network mapping, and scientific visualization.
+I enjoy transforming complex biological datasets into clear, reproducible, and interpretable analysis workflows. I am also interested in building small research tools that make biological networks, omics results, and model annotations easier to explore and understand.
 
 ---
 
-## Research Focus
+## Research Interests
 
-* Microbial genomics and functional genomics
-* Heat-stress response and adaptive evolution in microorganisms
+I am broadly interested in:
+
+* Microbial stress response
+* Functional genomics and microbial genome analysis
 * Gene regulatory networks and transcription factor-target relationships
-* CRISPRi screening and sgRNA-level data analysis
-* Genome-scale metabolic modeling and regulatory-metabolic coupling
-* Multi-omics integration for microbial physiology interpretation
-* Reproducible bioinformatics pipelines and automated reporting
-* Interactive visualization platforms for biological networks
+* Genome-scale metabolic modeling and pathway interpretation
+* Data-driven strain engineering and systems-level interpretation
 
 ---
+
 
 ## Featured Projects
 
@@ -44,25 +44,21 @@ I am particularly interested in turning complex biological datasets into **inter
 
 ### [Cgl Regulation Explorer](https://github.com/gaodandan-ai/cgl_regulation)
 
-An interactive regulatory-metabolic analysis platform for *Corynebacterium glutamicum*.
+An interactive platform for exploring regulatory and metabolic information in *Corynebacterium glutamicum*.
 
-This project integrates transcription factor-target relationships, sRNA regulatory evidence, operon information, genome-scale metabolic model mapping, enzyme-related annotations, pathway-level interpretation, network topology analysis, and interactive visualization.
+This project reflects my interest in connecting transcriptional regulation, metabolic pathways, model annotations, and biological interpretation in one searchable and visual framework.
 
 **Live demo:**
 https://cgl-regulation.vercel.app/
-
-**Keywords:** regulatory network, metabolic model mapping, pathway analysis, Cytoscape.js, dashboard, literature-supported annotation
 
 </td>
 <td width="50%">
 
 ### [Whole-Genome Resequencing Pipeline](https://github.com/gaodandan-ai/cg_sequencing)
 
-A reproducible pipeline for *Corynebacterium glutamicum* whole-genome resequencing analysis.
+A reproducible workflow for microbial whole-genome resequencing analysis.
 
-The workflow supports FASTQ quality control, trimming, BWA alignment, BAM processing, variant calling, allele-frequency filtering, snpEff annotation, and structured result reporting.
-
-**Keywords:** WGS, BWA, samtools, bcftools, snpEff, allele frequency, variant annotation
+This project helps me practice genome variation analysis, allele-frequency filtering, mutation annotation, and structured reporting for microbial evolution studies.
 
 </td>
 </tr>
@@ -72,22 +68,18 @@ The workflow supports FASTQ quality control, trimming, BWA alignment, BAM proces
 
 ### [CRISPRi Thermal Screening Pipeline](https://github.com/gaodandan-ai/CRISPRi_thermal)
 
-An automated pipeline for CRISPR interference screening data under thermal stress.
+A pipeline for processing CRISPRi screening data under thermal stress.
 
-It supports sgRNA spacer extraction, alignment, count matrix construction, single-gene screening analysis, and dual-gene CRISPRi library processing.
-
-**Keywords:** CRISPRi, sgRNA screening, bowtie2, count matrix, thermal stress, functional genomics
+This project is related to my interest in functional genomics, sgRNA-level analysis, and identifying genes associated with stress tolerance.
 
 </td>
 <td width="50%">
 
 ### [GP960 Growth Screen Pipeline](https://github.com/gaodandan-ai/GP960-growth-screen-pipeline-Red)
 
-A Python-based analysis pipeline for high-throughput microbial growth curve screening.
+A Python-based pipeline for high-throughput microbial growth curve analysis.
 
-It converts GP960 raw Excel files into standardized OD tables, cleans abnormal curves, calculates growth and fitness metrics, and generates visual summaries for downstream interpretation.
-
-**Keywords:** growth curve analysis, high-throughput screening, stress tolerance, Python, Excel automation
+This project focuses on converting raw experimental data into standardized tables, growth metrics, and visual summaries.
 
 </td>
 </tr>
@@ -100,47 +92,31 @@ It converts GP960 raw Excel files into standardized OD tables, cleans abnormal c
 <table>
 <tr>
 <td><b>Programming</b></td>
-<td>Python · R · JavaScript · Bash</td>
+<td>Python · R · Bash · JavaScript</td>
 </tr>
 <tr>
 <td><b>Bioinformatics</b></td>
-<td>BWA · samtools · bcftools · snpEff · FastQC · MultiQC · bowtie2</td>
-</tr>
-<tr>
-<td><b>Data Analysis</b></td>
-<td>pandas · NumPy · openpyxl · statistical reporting · differential analysis · automated tables</td>
+<td>RNA-seq · WGS · CRISPRi screening · multi-omics analysis · growth curve analysis</td>
 </tr>
 <tr>
 <td><b>Systems Biology</b></td>
-<td>gene regulatory networks · genome-scale metabolic models · pathway mapping · multi-omics integration</td>
+<td>gene regulatory networks · metabolic pathway mapping · genome-scale metabolic models</td>
 </tr>
 <tr>
 <td><b>Visualization</b></td>
-<td>Cytoscape.js · Chart.js · network visualization · interactive dashboards</td>
+<td>Cytoscape.js · Chart.js · interactive dashboards · biological network visualization</td>
 </tr>
 <tr>
-<td><b>Research Engineering</b></td>
-<td>reproducible pipelines · documentation · Docker · GitHub · web deployment</td>
+<td><b>Research Practice</b></td>
+<td>reproducible workflows · automated reporting · documentation · GitHub project organization</td>
 </tr>
 </table>
 
 
----
-
-## Current Interests
-
-I am currently working on:
-
-* Time-series multi-omics analysis of microbial heat-stress responses
-* Regulatory-metabolic coupling in *Corynebacterium glutamicum*
-* Integration of transcriptional regulation, metabolic models, and enzyme-level information
-* Development of reusable web-based tools for microbial systems biology
-
----
 
 ## Contact
 
 * GitHub: [gaodandan-ai](https://github.com/gaodandan-ai)
-* Research interests: microbial systems biology, bioinformatics, multi-omics integration, computational strain engineering
+* Interests: microbial systems biology, computational biology, bioinformatics, multi-omics integration, regulatory-metabolic networks
 
 ---
