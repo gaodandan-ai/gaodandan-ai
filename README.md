@@ -4,7 +4,6 @@
 
 ### Computational Biology · Microbial Systems · Reproducible Bioinformatics
 
-I build computational workflows and interactive tools for microbial genomics, regulatory networks, CRISPRi screening, metabolic analysis, and strain-engineering research.
 
 [![GitHub](https://img.shields.io/badge/GitHub-gaodandan--ai-181717?style=flat&logo=github)](https://github.com/gaodandan-ai)
 [![Research](https://img.shields.io/badge/Research-Computational%20Biology-2E7D32?style=flat)](#research-interests)
