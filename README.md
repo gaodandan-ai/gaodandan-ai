@@ -2,7 +2,7 @@
 
 # Dandan Gao
 
-### Computational Biology · Microbial Systems Biology · Bioinformatics Learning & Research
+###  Microbial Systems Biology · Bioinformatics Learning & Research
 
 [![GitHub](https://img.shields.io/badge/GitHub-gaodandan--ai-181717?style=flat\&logo=github)](https://github.com/gaodandan-ai)
 [![Research](https://img.shields.io/badge/Research-Microbial%20Systems%20Biology-2E7D32?style=flat)](#research-interests)
