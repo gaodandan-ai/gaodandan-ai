@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi, I am **Dandan Gao**, a graduate student interested in **computational biology**, **microbial systems biology**, and **bioinformatics data analysis**.
+Hi, I am **Dandan Gao**, a graduate student interested in **microbial systems biology**, and **bioinformatics data analysis**.
 
 My current research focuses on understanding how microorganisms respond and adapt to environmental stress,  through multi-omics data, regulatory networks, metabolic pathways, and computational modeling.
 
